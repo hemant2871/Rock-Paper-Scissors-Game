@@ -50,7 +50,7 @@ Improved JavaScript interaction and event handling
 
 Gained hands-on experience with user interaction flow
 
-###📬 Contact
+### 📬 Contact
 Feel free to connect with me:
 
 🔗 [GitHub](https://github.com/hemant2871)
